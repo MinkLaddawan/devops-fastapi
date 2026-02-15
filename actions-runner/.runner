@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "mink",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus24.actions.githubusercontent.com/eQokUhTXnVzbHUjZOGFsBdiozC2m7V3CKxAP0b8Aq13r9qOJRt/",
+  "gitHubUrl": "https://github.com/MinkLaddawan/devops-fastapi",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
